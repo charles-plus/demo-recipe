@@ -1,0 +1,25 @@
+body {
+    font-size: 14pt;
+    color: navy;
+}
+
+body {
+    color: black;
+    background-color: #e4f0f5;
+}
+
+h2 {
+    font-size: 1.5em;
+    background-color: #ccc;
+    margin: 20px;
+    padding: 40px;
+}
+
+h2 {
+    border-style: dashed;
+    border-width: 3px;
+    border-left-width: 10px;
+    border-right-width: 10px;
+    border-color: red;
+}
+
